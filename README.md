@@ -17,3 +17,4 @@ You Can Add This Add-ons To The Design
 - Increase Numbers On Scrolling => https://youtu.be/PLsUdgLnzgQ
 git add .
 git commit -m "your commit message"
+git push origin main
