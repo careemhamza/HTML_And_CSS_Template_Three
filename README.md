@@ -12,6 +12,22 @@ git commit -m "Update 2"
 echo "Update 3" >> README.md
 git add README.md
 git commit -m "Update 3"
+echo "Update 1" >> README.md
+git add README.md
+git commit -m "Update 1"
+
+echo "Update 2" >> README.md
+git add README.md
+git commit -m "Update 2"
+
+echo "Update 3" >> README.md
+git add README.md
+git commit -m "Update 3"
+
+echo "Update 4" >> README.md
+git add README.md
+git commit -m "Update 4"
+
 
 echo "Update 4" >> README.md
 git add README.md
